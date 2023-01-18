@@ -26,4 +26,4 @@ iceCreamFlavors.filter(flavor => flavor.type === "Chocolate")
    { name: "Mint Chip", type: "Chocolate"}]
 ```
 
-# Check a condition by using some()
+## 3.Check a condition by using some()
